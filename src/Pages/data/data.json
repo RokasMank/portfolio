@@ -1,0 +1,27 @@
+
+
+{
+ "projects":[
+{
+            "title":"Portfolio website",
+            "description":"This is the current website you are on. Its purpose is to introduce myself. This web page strengthened my React and Typescript skills and I have also learned a little bit of Bootstrap. This website is mixed with plain CSS and Bootstrap. ",
+            "link":"manke.netlify.app/",
+            "image":"/pics/portfolio.png",
+            "tools":["React", "Typescript", "Bootstrap"]
+},
+{  "title":"Photo gallery website",
+    "description":"This is my first bigger project with React and Typescript where I did everything on my own. It is a simple personal photo gallery website. It is responsive and should be mobile friendly (not for all mobile phones). Website contains several simple pages. I learned Firebase basics during this project. Pictures can be stored in Firebase, and they would appear into the gallery instantly. ",
+    "link":"justogalerija.netlify.app/",
+    "image":"/pics/photoWeb.png",
+    "tools":["React", "Typescript", "Firebase"]
+},
+{  "title":"Quiz website",
+    "description":"This is my first React project which is quite simple and most of it is copied from Youtube but I have learned a lot from it. I learned React, Typescript basics, got to know what API is. I implemented my own questions in this project and had to familiarize myself with JSON and added right/wrong answers overview. This website contains almost no styling! ",
+    "link":"mankequiz.netlify.app/",
+    "image":"/pics/quiz.png",
+    "tools":["React", "Typescript"]
+}
+
+
+        ]
+}
